@@ -1,19 +1,17 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Artificial Intelligence
+course_description: "Introduction to artificial intelligence."
+course_semester: "Fall 2022"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/NYU-AI-Fall22" # the subpath of your site, e.g. /blog/
+url: "http://aiteachings.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "NYU Paris"
+schoolurl: "https://www.nyu.edu/paris.html"
+twitter_username: NYUParis 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    NYU Paris
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
