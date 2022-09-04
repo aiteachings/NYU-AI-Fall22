@@ -3,7 +3,7 @@ type: lecture
 date: 2022-09-06T8:00:00+4:30
 title: "Lab 1"
 tldr: "Introduction to scikit-learn."
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/lab.jpg
 links: 
     - url: /static_files/code/introduction_sklearn.ipynb
       name: Python notebook
