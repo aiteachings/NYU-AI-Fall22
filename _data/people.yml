@@ -1,19 +1,14 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Stephan Clémençon
+    profile_pic: /_images/pp/stephan.jpg
+    webpage: https://perso.telecom-paristech.fr/clemenco/
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Hicham Janati
+    profile_pic: /_images/pp/hicham.png
+    webpage: http://hichamjanati.github.io/
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: Mathieu Labeau
+    profile_pic: /_images/pp/mathieu.jpeg
+    webpage: https://www.telecom-paris.fr/matthieu-labeau
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
