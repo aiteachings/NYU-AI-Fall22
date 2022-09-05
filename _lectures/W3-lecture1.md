@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-20T16:15:00+1:00
+date: 2022-09-20T16:15:00+2:00
 title: "Concepts of statistical learning (1/2)"
 tldr: "Model complexity, Bias-variance trade-off"
 thumbnail: /_images/lecture.jpeg

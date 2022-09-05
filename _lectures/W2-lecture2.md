@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-15T16:15:00+1:00
+date: 2022-09-15T16:15:00+2:00
 title: "First algorithms (2/2)"
 tldr: "Linear regression, linear discriminant analysis, decision trees, linear SVM, nearest neighbours, neural nets"
 thumbnail: /_images/lecture.jpeg

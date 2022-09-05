@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-22T16:15:00+1:00
+date: 2022-09-22T16:15:00+2:00
 title: "Concepts of statistical learning (2/2)"
 tldr: "Overffiting/underfitting, Regularization, Cross-validation"
 thumbnail: /_images/lecture.jpeg

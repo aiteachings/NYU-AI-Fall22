@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-08T16:15:00+1:00
+date: 2022-09-08T16:15:00+2:00
 title: "Introduction to AI"
 tldr: "Introduction to AI, historical perspectives, the monolayer perceptron."
 thumbnail: /_images/lecture.jpeg

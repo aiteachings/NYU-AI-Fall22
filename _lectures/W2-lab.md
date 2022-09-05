@@ -1,6 +1,6 @@
 ---
 type: lab
-date: 2022-09-15T14:30:00+1:00
+date: 2022-09-15T14:30:00+2:00
 title: "Pattern recognition"
 tldr: "Handwritten characters and medical diagnosis"
 thumbnail: /_images/jupyter.png
