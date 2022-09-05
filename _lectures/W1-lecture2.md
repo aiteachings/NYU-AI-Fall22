@@ -6,7 +6,7 @@ tldr: "Introduction to AI, historical perspectives, the monolayer perceptron."
 thumbnail: /_images/lecture.jpeg
 hide_from_announcments: false
 links: 
-    - url: /static_files/slides/introduction2.pdf
+    - url: /static_files/slides/introduction.pdf
       name: slides
 ---
 **Suggested readings & references:**
