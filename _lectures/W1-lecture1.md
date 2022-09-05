@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-06T16:15:00
+date: 2022-09-06T16:15:00+2:00
 title: "Class Introduction"
 tldr: "General introduction to the class, scope, organization and evaluation."
 thumbnail: /_images/lecture.jpeg
