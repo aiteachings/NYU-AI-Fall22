@@ -7,7 +7,7 @@ thumbnail: /_images/lecture.jpeg
 hide_from_announcments: true
 
 links: 
-    - url: /static_files/slides/introduction.pdf
-      name: slides
+    # - url: /static_files/slides/introduction.pdf
+    #   name: slides
 ---
 **Suggested readings & references:**

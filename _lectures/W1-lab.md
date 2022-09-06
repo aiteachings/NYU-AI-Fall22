@@ -7,8 +7,10 @@ thumbnail: /_images/jupyter.png
 hide_from_announcments: false
 
 links: 
-    - url: /static_files/code/introduction_sklearn.ipynb
+    - url: /static_files/code/introduction_python.ipynb
       name: Python notebook
+    - url: /static_files/code/introduction_python.html
+      name: Python notebook (html)
 ---
 **Suggested readings & references:**
 - [Python Installation Guidelines](https://docs.anaconda.com/anaconda/install/) Guide to install the Python Anaconda distribution.
