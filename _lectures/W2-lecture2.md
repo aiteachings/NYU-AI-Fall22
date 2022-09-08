@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-09-15T16:15:00+2:00
-title: "Pattern recognition (2/2)"
+title: "Pattern recognition (4/4)"
 tldr: "Handwritten characters: first classifiers"
 thumbnail: /_images/lecture.jpeg
 hide_from_announcments: true

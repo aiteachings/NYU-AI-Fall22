@@ -8,8 +8,10 @@ hide_from_announcments: false
 
 links: 
     - url: /static_files/code/introduction_python.ipynb
-      name: Python notebook
+      name: Notebook - Intro Python
+    - url: /static_files/code/introduction_sklearn.ipynb
+      name: Notebook - Make your first ML prediction
 ---
 **Suggested readings & references:**
-- [Python Installation Guidelines](https://docs.anaconda.com/anaconda/install/) Guide to install the Python Anaconda distribution.
+- [Python Installation Guidelines](https://nbviewer.org/github/aiteachings/NYU-AI-Fall22/blob/master/static_files/code/introduction_python.ipynb) Guide to install the Python Anaconda distribution.
 - [Online tutorials](python.org/): Hands-on tutorials for beginners.
