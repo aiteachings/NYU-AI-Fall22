@@ -7,7 +7,9 @@ thumbnail: /_images/jupyter.png
 hide_from_announcments: true
 
 links: 
-    # - url: /static_files/code/introduction_sklearn.ipynb
-    #   name: Python notebook
+    - url: /static_files/code/introduction_rv.ipynb
+      name: Random variables - CLT
+    - url: /static_files/code/perceptron.ipynb
+      name: Monolayer perceptron
 ---
 **Suggested readings & references:**
