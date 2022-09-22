@@ -7,7 +7,7 @@ thumbnail: /_images/jupyter.png
 hide_from_announcments: true
 
 links: 
-    - url: /static_files/code/Assignment_1.ipynb
+    - url: /static_files/code/Assignment1.ipynb
       name: Assignment 1
 ---
 **Suggested readings & references:**
