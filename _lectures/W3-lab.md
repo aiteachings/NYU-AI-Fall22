@@ -9,5 +9,7 @@ hide_from_announcments: true
 links: 
     - url: /static_files/code/Assignment1.ipynb
       name: Assignment 1
+    - url: /static_files/code/Assignment_1_solutions.ipynb
+      name: Assignment 1 - solutions
 ---
 **Suggested readings & references:**
