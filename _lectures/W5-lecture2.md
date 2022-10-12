@@ -1,9 +1,9 @@
 ---
-type: lab
+type: lecture
 date: 2022-10-13T16:15:00+2:00
 title: "Unsupervised learning: clustering"
 tldr: "Clustering"
-thumbnail: /_images/jupyter.jpeg
+thumbnail: /_images/lecture.jpeg
 hide_from_announcments: true
 
 links: 
