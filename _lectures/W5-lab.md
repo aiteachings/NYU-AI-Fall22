@@ -1,6 +1,6 @@
 ---
 type: lab
-date: 2022-10-06T14:30:00+2:00
+date: 2022-10-13T14:30:00+2:00
 title: "Similarity"
 tldr: "Facial recognition, similarity"
 thumbnail: /_images/jupyter.png
