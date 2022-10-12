@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2022-09-22T16:15:00+2:00
-title: "Pattern recognition: neural networks, SVM (1/2)"
-tldr: "Random forests, deep learning, SVM"
+date: 2022-10-11T16:15:00+2:00
+title: "Unsupervised learning: similarity"
+tldr: "Facial recognition, similarity"
 thumbnail: /_images/lecture.jpeg
 hide_from_announcments: true
 

@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-09-08T16:15:00+2:00
-title: "Pattern recognition (1/4)"
+title: "Pattern recognition: Introduction"
 tldr: "Introduction, the artificial neuron, basics in probability"
 thumbnail: /_images/lecture.jpeg
 hide_from_announcments: false

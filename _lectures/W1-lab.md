@@ -1,7 +1,7 @@
 ---
 type: lab
 date: 2022-09-08T14:30:00+2:00
-title: "Machine learning in Python: an introduction"
+title: "Machine learning in Python"
 tldr: "Scientific computing in Python and introduction to scikit-learn."
 thumbnail: /_images/jupyter.png
 hide_from_announcments: false
