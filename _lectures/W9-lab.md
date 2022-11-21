@@ -1,6 +1,6 @@
 ---
 type: lab
-date: 2022-21-10T13:30:00+2:00
+date: 2022-11-21T13:30:00+2:00
 title: "Q-learning"
 tldr: "Q-learning"
 thumbnail: /_images/jupyter.png
