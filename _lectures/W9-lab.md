@@ -7,7 +7,7 @@ thumbnail: /_images/jupyter.png
 hide_from_announcments: true
 
 links: 
-    - url: /static_files/code/Q_learning_maze.ipynb
+    - url: /static_files/code/Q_Learning_maze.ipynb
       name: Qlearning
 ---
 **Suggested readings & references:**
