@@ -9,6 +9,18 @@ layout: default
     {% include announcements.html %}
     <br />
 
+    <h2>Course details</h2>
+    The course is composed of two components.
+<ol>
+<li>Lectures (Tuesday and Thursday, 4:15-5:30pm GMT +1)
+The purpose of the lectures is to convey essential concepts in AI, explain problems and methods, and describe use cases. These theory classes  include interaction between the students and the instructors.
+</li>
+<li>Lab classes (Thursday 2:30-4:00pm GMT +1)
+Understanding the notions presented during lectures will be greatly facilitated by laboratory courses. 
+</li>
+</ol>
+Location: Rooms will be posted in Albert before your first class.
+<br />
     <h2>Course Description</h2>
     <p>{{ site.course_description }}</p>
 
@@ -20,7 +32,20 @@ layout: default
 
     <p>{{ site.course_prerequisites }}</p>
 
+
+    <h2>Assessment Components </h2>
+    <p>{{ site.course_assessment }}</p>
+    <ol>
+        <li> {{ site.course_rule1 }}</li>
+        <li> {{ site.course_rule2 }}</li>
+    </ol>
+
+    <h2> Additional Required Equipment </h2>
+    <p> Personal laptop </p>
+
+
     {{ content }}
+
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
     <h2>Previous Offerings</h2>

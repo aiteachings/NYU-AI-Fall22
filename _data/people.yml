@@ -8,7 +8,7 @@ teaching_assistants:
     profile_pic: /_images/pp/hicham.png
     webpage: http://hichamjanati.github.io/
 
-  - name: Mathieu Labeau
-    profile_pic: /_images/pp/mathieu.jpeg
-    webpage: https://www.telecom-paris.fr/matthieu-labeau
+  # - name: Mathieu Labeau
+  #   profile_pic: /_images/pp/mathieu.jpeg
+  #   webpage: https://www.telecom-paris.fr/matthieu-labeau
 
