@@ -9,6 +9,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/code/introduction_sklearn.ipynb
       name: Notebook - Make your first ML prediction
+    - url: /static_files/code/introduction_sklearn-solution.ipynb
+      name: Solution - Make your first ML prediction
     - url: /static_files/code/perceptron.ipynb
       name: Monolayer perceptron
 
