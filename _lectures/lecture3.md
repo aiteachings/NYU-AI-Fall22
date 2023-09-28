@@ -8,7 +8,7 @@ hide_from_announcments: true
 
 links: 
     - url: /static_files/slides/lecture2.pdf
-      name: slides
+      name: slides 2
 ---
 
 **Suggested readings & references:**
