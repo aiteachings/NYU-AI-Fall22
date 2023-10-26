@@ -9,7 +9,6 @@ hide_from_announcments: true
 links: 
     - url: /static_files/code/lab8_similarity.ipynb
       name: Similarity
-links: 
     - url: /static_files/code/lab9_music.ipynb
       name: ML for Music
 
