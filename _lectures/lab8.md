@@ -1,6 +1,6 @@
 ---
 type: lab
-date: 2023-10-12T14:30:00+2:00
+date: 2023-10-19T14:30:00+2:00
 title: "Neural nets"
 tldr: "Neural nets"
 thumbnail: /_images/jupyter.png

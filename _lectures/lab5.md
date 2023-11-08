@@ -11,6 +11,8 @@ links:
       name: Monolayer perceptron
     - url: /static_files/code/Assignment_1.ipynb
       name: Notebook - assignment_1
+    - url: /static_files/code/Assignment_1_solutions.ipynb
+      name: Notebook - assignment_1_solutions
 
 ---
 **Suggested readings & references:**
