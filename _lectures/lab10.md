@@ -7,7 +7,7 @@ thumbnail: /_images/jupyter.png
 hide_from_announcments: true
 
 links: 
-    - url: /static_files/code/graphs_network.ipynb
+    - url: /static_files/code/graphs_networks.ipynb
       name: Learning on graphs
 
 
