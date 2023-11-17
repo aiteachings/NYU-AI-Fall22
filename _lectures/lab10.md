@@ -1,6 +1,6 @@
 ---
 type: lab
-date: 2023-11-09T14:30:00+2:00
+date: 2023-11-16T14:30:00+2:00
 title: "Graphs"
 tldr: "graphs"
 thumbnail: /_images/jupyter.png
