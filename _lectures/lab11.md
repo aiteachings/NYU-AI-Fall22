@@ -8,8 +8,11 @@ hide_from_announcments: true
 
 links: 
     - url: /static_files/code/ICA.ipynb
-      name: ICA
-
+      name: ICA notebook
+    - url: /static_files/data/laugh.wav
+      name: audio 1
+    - url: /static_files/data/melody.wav
+      name: audio 2
 
 ---
 **Suggested readings & references:**
