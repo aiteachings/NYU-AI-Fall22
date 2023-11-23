@@ -6,8 +6,8 @@ tldr: "Introduction, the artificial neuron, basics in probability"
 thumbnail: /_images/lecture.jpeg
 hide_from_announcments: false
 links: 
-    - url: /static_files/slides/lecture2.pdf
-      name: slides
+    - url: /static_files/slides/pattern_recognition_1.pdf
+      name: slides-pattern-recognition-1
 ---
 **Suggested readings & references:**
 - [pdf](https://zoo.cs.yale.edu/classes/cs470/materials/aima2010.pdf) Russel, S. & Norvig. P. (2020)  _Artificial Intelligence: a Modern Approach_

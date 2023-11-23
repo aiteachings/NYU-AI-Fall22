@@ -7,8 +7,8 @@ thumbnail: /_images/lecture.jpeg
 hide_from_announcments: true
 
 links: 
-    - url: /static_files/slides/slides3.pdf
-      name: slides 2
+    - url: /static_files/slides/pattern_recognition_2.pdf
+      name: slides-pattern-recognition-2
 ---
 
 **Suggested readings & references:**
